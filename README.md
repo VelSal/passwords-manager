@@ -4,7 +4,7 @@
 But you can still use it to check out the code and play around with it.
 
 Quick notes:
-- To use this program, please install the "cryptography" module ("pip install cryptography" in the terminal)
+- To use this program, please install the "cryptography" python module
 - In order to create the key.key file, I created a function, called it and then comment all of this out to only have one key and not have errors.
 - If you want to have your own key:
   - Delete the key.key file
