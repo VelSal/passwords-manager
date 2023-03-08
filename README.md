@@ -1,6 +1,6 @@
 # Passwords manager
 
-## !!!WARNING!!! DO NOT USE IT AS AN ACTUAL PASSWORDS MANAGER! IT IS ONLY AN EXERCICE TO LEARN A BIT ABOUT ENCRYPTION AND DECRYPTION THEREFORE IT IS NOT 100% SAFE
+## !!!WARNING!!! DO NOT USE IT AS AN ACTUAL PASSWORDS MANAGER FOR YOUR REAL ACCOUNTS! IT IS ONLY AN EXERCICE TO LEARN A BIT ABOUT ENCRYPTION AND DECRYPTION THEREFORE IT IS NOT 100% SAFE
 But you can still use it to check out the code and play around with it.
 
 Quick notes:
@@ -20,3 +20,5 @@ def writeKey():
     keyFile.write(key)
 writeKey()'''
 `
+
+Fernet encryption documentation: https://cryptography.io/en/latest/fernet/
